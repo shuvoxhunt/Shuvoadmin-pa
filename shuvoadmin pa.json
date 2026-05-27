@@ -16,7 +16,7 @@
       "active": true,
       "status": "active",
       "created_date": "2026-05-27",
-      "max_devices": 0
+      "max_devices": 1
     },
     {
       "key": "shuvo1",
@@ -25,7 +25,7 @@
       "active": true,
       "status": "active",
       "created_date": "2024-01-01",
-      "max_devices": 0
+      "max_devices": 1
     }
   ]
 }
