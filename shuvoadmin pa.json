@@ -10,8 +10,8 @@
       "max_devices": 1
     },
     {
-      "key": "shuvo1",
-      "device_id": "fa0d9dc6-138d-4a34-9631-2cfd3411929d", 
+      "key": "shuvoq1",
+      "device_id": "qwdccc", 
       "expiry_date": "2029-12-30",
       "active": true,
       "status": "active",
@@ -19,8 +19,8 @@
       "max_devices": 1
     },
     {
-      "key": "shuvo1",
-      "device_id": "fa0d9dc6-138d-4a34-9631-2cfd3411929d",
+      "key": "shuvoq1",
+      "device_id": "qwdccc",
       "expiry_date": "2029-12-30",
       "active": true,
       "status": "active",
