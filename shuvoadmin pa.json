@@ -10,8 +10,8 @@
       "max_devices": 1
     },
     {
-      "key": "shuvo",
-      "device_id": "38fde66e-cb63-4a53-a3a2-504213125417", 
+      "key": "shuvo1",
+      "device_id": "01e1ad53-507b-4e7e-8b1a-5651f504bada", 
       "expiry_date": "2029-12-30",
       "active": true,
       "status": "active",
@@ -20,7 +20,7 @@
     },
     {
       "key": "shuvo1",
-      "device_id": "38fde66e-cb63-4a53-a3a2-504213125417",
+      "device_id": "01e1ad53-507b-4e7e-8b1a-5651f504bada",
       "expiry_date": "2029-12-31",
       "active": true,
       "status": "active",
